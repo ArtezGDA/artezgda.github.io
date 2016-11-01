@@ -16,5 +16,6 @@ Listen to these two podcasts:
 - [Good Point (Rafaël Rozendaal & Jeremy Bailey) - AI](http://www.stitcher.com/podcast/rafael-rozendaal/good-point/e/03-artificial-intelligence-48090727)
 
 Look at these movies:
+
 - Ex Machina
 - Lo and Behold, Reveries of the Connected World, Werner Herzog.
