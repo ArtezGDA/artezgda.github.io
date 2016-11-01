@@ -17,4 +17,4 @@ Listen to these two podcasts:
 
 Look at these movies:
 - Ex Machina
-- Lo and Behold, Reveries of the Connected World, Werner Herzog
+- Lo and Behold, Reveries of the Connected World, Werner Herzog.
