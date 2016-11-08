@@ -4,11 +4,11 @@ layout: main
 breadcrumb: Main
 ---
 
-## Today's lesson: functions and podcasts
+## Today's lesson: Introduction into Chatbots
 
-[Functions](https://github.com/ArtezGDA/Course-Material/tree/master/Basics/Lesson_07_Functions)
+[Chatbot Assignment](https://github.com/ArtezGDA/Course-Material/tree/master/DesignAChatbot.md)
 
-### Homework for next week
+### Homework for past week
 
 Listen to these two podcasts:
 
