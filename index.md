@@ -8,6 +8,11 @@ breadcrumb: Main
 
 [Chatbot Assignment](https://github.com/ArtezGDA/Course-Material/tree/master/DesignAChatbot.md)
 
+### Homework for next week
+
+- Formulate your concept. Give a couple of sentences of an possible conversation scenario.
+- Install zsh, dotfiles and alt key: follow [zsh dotfiles repo](https://github.com/irlabs/zsh-dotfiles)'s guide
+
 ### Homework for past week
 
 Listen to these two podcasts:
