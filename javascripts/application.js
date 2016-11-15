@@ -1,3 +1,6 @@
+// Database to record log / trace
+
+
 // Support TLS-specific URLs, when appropriate.
 if (window.location.protocol == "https:") {
   var ws_scheme = "wss://";
