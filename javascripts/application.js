@@ -8,9 +8,10 @@ if (window.location.protocol == "https:") {
   var ws_scheme = "ws://"
 };
 
-var chatServerHost = "wss://fast-mountain-78260.herokuapp.com";
-var inbox = new ReconnectingWebSocket(chatServerHost + "/receive");
-var outbox = new ReconnectingWebSocket(chatServerHost + "/submit");
+var chatServerHost = "wss://websockets-chatbot.herokuapp.com";
+var sessionID = $.uuid()
+var inbox = new ReconnectingWebSocket(chatServerHost + "/receive?session=" + sessionID);
+var outbox = new ReconnectingWebSocket(chatServerHost + "/submit?session=" + sessionID);
 
 inbox.onmessage = function(message) {
   var data = JSON.parse(message.data);
