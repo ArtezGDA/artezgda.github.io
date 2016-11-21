@@ -1,5 +1,3 @@
-// Database to record log / trace
-
 
 // Support TLS-specific URLs, when appropriate.
 if (window.location.protocol == "https:") {
@@ -15,7 +13,7 @@ var outbox = new ReconnectingWebSocket(chatServerHost + "/submit?session=" + ses
 
 inbox.onmessage = function(message) {
   var data = JSON.parse(message.data);
-  if (data.handle == "bot") {
+  if (data.handle == "me") {
     var chatDiv = "<div class='chatmsg mine'>"
   } else {
     var chatDiv = "<div class='chatmsg their'>"
@@ -38,7 +36,7 @@ outbox.onclose = function(){
 };
 
 function sendMessage(text) {
-  outbox.send(JSON.stringify({ handle: "bot", text: text }));
+  outbox.send(JSON.stringify({ handle: "me", text: text }));
   $("#textInput")[0].value = "";
 }
 
