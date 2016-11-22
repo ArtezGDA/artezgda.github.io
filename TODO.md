@@ -4,6 +4,7 @@
 
 https://websockets-chatbot.herokuapp.com
 
+- prevent multiple setup calls to the same session (keep list of active sessions in redis???)
 - two data types:
 	- message
 		- you / bot 
@@ -12,7 +13,7 @@ https://websockets-chatbot.herokuapp.com
 		- add()
 		- remove()
 		- "" to allow free form
-
+		
 - page to view all conversations: grouped per session, ordered by date/time (from old to new), styled for human-bot
 
 ## Client
