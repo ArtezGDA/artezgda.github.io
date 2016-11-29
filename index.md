@@ -8,7 +8,20 @@ breadcrumb: Main
 
 [Chatbot Assignment](https://github.com/ArtezGDA/Course-Material/tree/master/DesignAChatbot.md)
 
-## Today's lesson: Chatbots in python
+## Today's lesson: Markov Chain
+
+#### Viewing & Reading:
+
+- [The Markov Chain: Interactive & Visually explained](http://setosa.io/ev/markov-chains/)
+- [Khan Academy video](https://www.khanacademy.org/computing/computer-science/informationtheory/moderninfotheory/v/markov_chains) (in a series about **Information Theory**)
+- [Writing your own Markov Chain machine in python](http://agiliq.com/blog/2009/06/generating-pseudo-random-text-with-markov-chains-u/)
+- [**markovify**: a simple python module](https://github.com/jsvine/markovify)
+
+#### Coding:
+
+- Markov Chain experiments in the [Chatbots Repo](https://github.com/ArtezGDA/Chatbots).
+
+## Previous lesson: Chatbots in python
 
 Today we'll learn about the chatbot in this window next to this. This system consists of multiple parts:
 
@@ -21,10 +34,6 @@ Some more links to online lessons and tutorials:
 - Learn Python the hard way: [Lesson on Asking questions](https://learnpythonthehardway.org/book/ex11.html)
 - How to get started on Heroku: [tutorial](https://devcenter.heroku.com/articles/getting-started-with-python)
 - How to build a chat engine on Heroku: [tutorial](https://devcenter.heroku.com/articles/python-websockets)
-
-
-### Homework for next week
-
 
 ## Previous Homework
 
