@@ -264,6 +264,19 @@ footer {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
+/* HEADER */
+
+.list ul {
+    list-style: disc;
+    border: none;
+}
+
+.list li {
+    float: none;
+    width: auto;
+    height: auto;
+}
+
 /* BREADCRUMBS */
 
 .breadcrumb {
