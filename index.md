@@ -8,14 +8,19 @@ breadcrumb: Main
 
 [Scraping Tool Assignment](https://github.com/ArtezGDA/Course-Material/tree/master/ScrapingTool.md)
 
-## Today's lesson: Introduction: Scraping & Tools
+## Today's lesson: Regex:
+
+[Regex Notes](https://github.com/ArtezGDA/Course-Material/tree/master/Lesson_08_Regex.md)
+[Regex in python](https://github.com/ArtezGDA/Course-Material/tree/master/Advanced/regex/README.md)
+
+## Last week: Introduction: Scraping & Tools
 
 #### Examples of tools:
 
 - xpath / [xpather for chrome](https://chrome.google.com/webstore/detail/xpather/gabekepgockchhemajjahpchlnkadiac?hl=en)
 - regex / [regexr](http://regexr.com)
 - json
-- wolfram alpha
+- wolfram alpha: [http://www.wolframalpha.com](http://www.wolframalpha.com)
 
 #### Example projects:
 
