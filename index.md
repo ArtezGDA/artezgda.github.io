@@ -10,8 +10,8 @@ breadcrumb: Main
 
 ## Today's lesson: Regex:
 
-[Regex Notes](https://github.com/ArtezGDA/Course-Material/tree/master/Lesson_08_Regex.md)
-[Regex in python](https://github.com/ArtezGDA/Course-Material/tree/master/Advanced/regex/README.md)
+- [Regex Notes](https://github.com/ArtezGDA/Course-Material/tree/master/Lesson_08_Regex.md)
+- [Regex in python](https://github.com/ArtezGDA/Course-Material/tree/master/Advanced/regex/README.md)
 
 ## Last week: Introduction: Scraping & Tools
 
