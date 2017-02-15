@@ -275,6 +275,28 @@ footer {
     float: none;
     width: auto;
     height: auto;
+    padding-bottom: 6px;
+}
+
+.list ul a {
+    line-height: 1;
+    font-size: 14px;
+    color: #333;
+    display: block;
+    text-align: left;
+    padding-top: 0px;
+    margin-bottom: 0px;
+    height: 20px;
+}
+
+.list ul a:hover {
+    color:#39c;;
+}
+
+.list ul em {
+    font-size: 12px;
+    margin-top: 2px;
+    padding-bottom: 12px;
 }
 
 /* BREADCRUMBS */
