@@ -8,12 +8,16 @@ breadcrumb: Main
 
 [Scraping Tool Assignment](https://github.com/ArtezGDA/Course-Material/tree/master/ScrapingTool.md)
 
-## Today's lesson: Regex:
+## Today's lesson: XPath
+
+- [XPath Lesson](https://github.com/ArtezGDA/Course-Material/tree/master/Lesson_07_Scraping_with_Xpath.md)
+
+## Last week's lesson: Regex
 
 - [Regex Notes](https://github.com/ArtezGDA/Course-Material/tree/master/Lesson_08_Regex.md)
 - [Regex in python](https://github.com/ArtezGDA/Course-Material/tree/master/Advanced/regex/README.md)
 
-## Last week: Introduction: Scraping & Tools
+## Previous: Introduction: Scraping & Tools
 
 #### Examples of tools:
 
