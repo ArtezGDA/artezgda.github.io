@@ -8,11 +8,15 @@ breadcrumb: Main
 
 [Scraping Tool Assignment](https://github.com/ArtezGDA/Course-Material/tree/master/ScrapingTool.md)
 
-## Today's lesson: XPath
+## Today's lesson: Image Processing
+
+- [Image Processing Lesson](https://github.com/ArtezGDA/Course-Material/tree/master/Advanced/image-processing)
+
+## Last week's lesson: XPath
 
 - [XPath Lesson](https://github.com/ArtezGDA/Course-Material/tree/master/Lesson_07_Scraping_with_Xpath.md)
 
-## Last week's lesson: Regex
+## Previous: Regex
 
 - [Regex Notes](https://github.com/ArtezGDA/Course-Material/tree/master/Lesson_08_Regex.md)
 - [Regex in python](https://github.com/ArtezGDA/Course-Material/tree/master/Advanced/regex/README.md)
