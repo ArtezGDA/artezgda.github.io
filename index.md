@@ -6,13 +6,17 @@ breadcrumb: Main
 
 ## Assignment: Tools for scraping
 
-[Scraping Tool Assignment](https://github.com/ArtezGDA/Course-Material/tree/master/ScrapingTool.md)
+- [Scraping Tool Assignment](https://github.com/ArtezGDA/Course-Material/tree/master/ScrapingTool.md)
 
-## Today's lesson: Image Processing
+## Today's lesson: Wrap up & Documentation
+
+- [How to write proper documentation](https://github.com/ArtezGDA/Course-Material/blob/master/HowToWriteGoodDocumentation.md)
+
+## Last week's lesson: Image Processing
 
 - [Image Processing Lesson](https://github.com/ArtezGDA/Course-Material/tree/master/Advanced/image-processing)
 
-## Last week's lesson: XPath
+## Previous: XPath
 
 - [XPath Lesson](https://github.com/ArtezGDA/Course-Material/tree/master/Lesson_07_Scraping_with_Xpath.md)
 
