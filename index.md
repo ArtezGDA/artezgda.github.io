@@ -4,9 +4,21 @@ layout: main
 breadcrumb: Main
 ---
 
-## New Assignment: Open Source Data Visualization
+# Open Source Data Visualization
 
 - [Assignment 4: Open Source Data Visualization](https://github.com/ArtezGDA/Course-Material/tree/master/OpenSourceDataVisualization.md)
+
+## Today's Lesson: Scraping Tips
+
+- [Scraping Tips & Tricks](https://github.com/ArtezGDA/Course-Material/tree/master/Lesson_04_Scraping_Tips_Tricks.md)
+
+Other scraping examples and lessons:
+
+- Scrape Disney's box office from Wikipedia using `Element Tree` – [Python Web Scraper Repo](https://github.com/ArtezGDA/python-web-scraper) (low level)
+- Scrape list of cities from Wikipedia using `BeautifulSoup` – [Extended Scraping Lesson with Steps and Notes](https://github.com/ArtezGDA/Course-Material/tree/master/Lesson_09_Scraping_Notes.md)
+	- python files and scraping results – [Scraping Lecture Folder](https://github.com/ArtezGDA/Course-Material/tree/master/ScrapingLecture) 
+- Scrape all Github commit messages using the `github` python API – [API Lesson and code](https://github.com/ArtezGDA/Course-Material/tree/master/Lesson_05_Scraping_Github_API.md)
+- Scrape Disney's box office from Wikipedia using `lxml` with `XPath` – [XPath Lesson](https://github.com/ArtezGDA/Course-Material/tree/master/Lesson_07_Scraping_with_Xpath.md) (high level)
 
 ### Previous Lessons
 
