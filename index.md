@@ -8,7 +8,12 @@ breadcrumb: Main
 
 - [Assignment 4: Open Source Data Visualization](https://github.com/ArtezGDA/Course-Material/tree/master/OpenSourceDataVisualization.md)
 
-## Today's Lesson: Scraping Tips
+## Today's Lesson: Drawing a Graph
+
+- [Drawing Graphs Lesson](https://github.com/ArtezGDA/Course-Material/tree/master/Lesson_02_Drawing_Graphs.md)
+- Extra tools: [DataManipulation](https://github.com/ArtezGDA/Course-Material/tree/master/DataManipulation)
+
+## Previous Lesson: Scraping Tips
 
 - [Scraping Tips & Tricks](https://github.com/ArtezGDA/Course-Material/tree/master/Lesson_04_Scraping_Tips_Tricks.md)
 
