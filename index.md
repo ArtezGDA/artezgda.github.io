@@ -8,12 +8,26 @@ breadcrumb: Main
 
 - [Assignment 4: Open Source Data Visualization](https://github.com/ArtezGDA/Course-Material/tree/master/OpenSourceDataVisualization.md)
 
-## Today's Lesson: Drawing a Graph
+## Today's Lesson: Different graphs & Math
+
+- Discussing the progress
+- [Math Lesson](https://github.com/ArtezGDA/Course-Material/tree/master/Lesson_06_Math_Functions.md)
+- (Python: map, reduce, filter)
+- Overview of graphs (see [Literature](https://github.com/ArtezGDA/Course-Material/tree/master/OpenSourceDataVisualization.md#literature))
+- Homework: pick the best graph for your data
+
+#### Further reading
+
+- [Introducing d3.express](https://medium.com/@mbostock/a-better-way-to-code-2b1d2876a3a0) (Closed beta of interactive tool, inspired by [Bret Victor](http://worrydream.com))
+- [D3](https://d3js.org), a Javascript library for visualizing data
+- [Vega-Lite](https://vega.github.io/vega-lite/), a "visualization grammar"
+
+## Previous Lessons: Drawing a Graph
 
 - [Drawing Graphs Lesson](https://github.com/ArtezGDA/Course-Material/tree/master/Lesson_02_Drawing_Graphs.md)
-- Extra tools: [DataManipulation](https://github.com/ArtezGDA/Course-Material/tree/master/DataManipulation)
+- Extra tools: [DataManipulation](https://github.com/ArtezGDA/Course-Material/tree/master/DataManipulation) (Flatten – Filter – Compare – Merge)
 
-## Previous Lesson: Scraping Tips
+### Scraping Tips
 
 - [Scraping Tips & Tricks](https://github.com/ArtezGDA/Course-Material/tree/master/Lesson_04_Scraping_Tips_Tricks.md)
 
